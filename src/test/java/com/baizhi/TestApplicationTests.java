@@ -8,7 +8,7 @@ public class TestApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("dev");
+        System.out.println("ppx");
     }
 
 }
